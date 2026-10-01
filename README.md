@@ -1,1 +1,2 @@
 # WebDev_Project_JohnOreilly
+Project Description: The purpose of this project is to provide a website for the client John O'Reilly and his business Wheels On Fire. He wants the website to display and sell his modified cars.
