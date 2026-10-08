@@ -1,9 +1,8 @@
 /*clarity city*/
 
 nav :hover {
-  color: red;
+  color: lightblue;
   text-decoration: underline;
-  background-color: #333;
 }
 h1{
   border-style: hidden;
@@ -14,14 +13,24 @@ h1{
 /*REMEMBER*/
 nav {
   display: flex;
-  gap: 30px;
+  gap: 20px;
   background-color: #333;
   padding: 12px 20px;
 }
 
 nav a {
   color: white;
-  text-decoration: none;
   font-family: sans-serif;
 }
+nav{
+  position: sticky;
+}
+img{
+  margin-top: 10px;
 
+}
+footer p{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: grey;
+  padding: 10px 20px;
+}
