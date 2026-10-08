@@ -1,0 +1,27 @@
+/*clarity city*/
+
+nav :hover {
+  color: red;
+  text-decoration: underline;
+  background-color: #333;
+}
+h1{
+  border-style: hidden;
+  text-align: center;
+  border-bottom-style:groove; 
+}
+
+/*REMEMBER*/
+nav {
+  display: flex;
+  gap: 30px;
+  background-color: #333;
+  padding: 12px 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
