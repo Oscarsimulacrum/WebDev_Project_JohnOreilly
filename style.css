@@ -16,6 +16,7 @@ nav {
   gap: 20px;
   background-color: #333;
   padding: 12px 20px;
+  margin-bottom: 5px;
 }
 
 nav a {
@@ -33,4 +34,10 @@ footer p{
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   background-color: grey;
   padding: 10px 20px;
+}
+
+img.JohnPortrait {
+  
+  border-style: solid;
+  border: 2px slategray;
 }
