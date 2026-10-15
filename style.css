@@ -8,6 +8,10 @@ h1{
   border-style: hidden;
   text-align: center;
   border-bottom-style:groove; 
+  height: 3rem;
+}
+#titlehp{
+  color: orange;
 }
 
 /*REMEMBER*/
@@ -17,16 +21,15 @@ nav {
   background-color: #333;
   padding: 12px 20px;
   margin-bottom: 5px;
+  position: sticky
 }
 
 nav a {
   color: white;
   font-family: sans-serif;
 }
-nav{
-  position: sticky;
-}
-img{
+
+#vintcar{
   margin-top: 10px;
 
 }
@@ -37,7 +40,24 @@ footer p{
 }
 
 img.JohnPortrait {
-  
-  border-style: solid;
-  border: 2px slategray;
+  width: 17rem;
+  height: 18rem;
+  border: 0.75rem outset grey;
+  padding: 2rem;
+  margin: 1rem;
+}
+summary:hover{
+  color: rgb(25, 97, 1);
+  text-decoration: underline;
+
+}
+#titlehp{
+  background-image: url(https://images.unsplash.com/photo-1507048947301-7afc2aca0edc?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D);
+  background-repeat: 3;
+  background-size: 100% 100%;
+
+}
+
+#abttitle{
+  background-image: url(https://plus.unsplash.com/premium_photo-1677009835876-4a29ddc4cc2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D);
 }
